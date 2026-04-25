@@ -1,4 +1,4 @@
-# Code Review: PR rgb(224, 240, 8) - Workflow Execution Retry Logic
+# Code Review: PR - Workflow Execution Retry Logic
 
 ## Potential Issues
 
